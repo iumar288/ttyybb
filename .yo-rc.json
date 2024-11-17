@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "ttyybb",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1731859965553,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "NWRjMmUxZGY2ZWYzZmQ4YTBmNTRhMmQwYjlmNzFhNDIzZjEyYjIzMmVmNmQwMDA3ZjIwYWJmMzM1ZTUwNmQ3MTVlYTMzZjBkZDAwYTdlODkzZmNhY2MzNjk1NWNlOWVkMzcxNGNjMmRjNGU1MWMzZDgxNWJjZTBlODhmMjAzYzc=",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": ["gatling"],
+    "websocket": null
+  }
+}
